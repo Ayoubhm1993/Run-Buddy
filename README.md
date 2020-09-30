@@ -14,3 +14,4 @@ https://ayoubhm1993.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Ayoub
+### ©️2019 Run Buddy, Inc 
